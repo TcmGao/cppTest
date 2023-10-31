@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/main.dir/main.cpp.o CMakeFiles/main.dir/src/text_query/query_result.cpp.o CMakeFiles/main.dir/src/text_query/text_query.cpp.o CMakeFiles/main.dir/src/search.cpp.o -o main 
