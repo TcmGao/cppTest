@@ -1,8 +1,8 @@
 CMakeFiles/main.dir/src/search.cpp.o: \
- /home/untcm/develop/repository/first/src/search.cpp \
+ /home/untcm/develop/repository/cppWorkspace/first/src/search.cpp \
  /usr/include/stdc-predef.h \
- /home/untcm/develop/repository/first/include/text_query/query_result.h \
- /home/untcm/develop/repository/first/include/text_query/text_query.h \
+ /home/untcm/develop/repository/cppWorkspace/first/include/text_query/query_result.h \
+ /home/untcm/develop/repository/cppWorkspace/first/include/text_query/text_query.h \
  /usr/include/c++/11/fstream /usr/include/c++/11/istream \
  /usr/include/c++/11/ios /usr/include/c++/11/iosfwd \
  /usr/include/x86_64-linux-gnu/c++/11/bits/c++config.h \
@@ -181,5 +181,5 @@ CMakeFiles/main.dir/src/search.cpp.o: \
  /usr/include/c++/11/bits/stl_vector.h \
  /usr/include/c++/11/bits/stl_bvector.h \
  /usr/include/c++/11/bits/vector.tcc \
- /home/untcm/develop/repository/first/include/text_query/search.h \
+ /home/untcm/develop/repository/cppWorkspace/first/include/text_query/search.h \
  /usr/include/c++/11/iostream

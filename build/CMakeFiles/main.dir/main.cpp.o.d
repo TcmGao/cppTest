@@ -1,6 +1,6 @@
 CMakeFiles/main.dir/main.cpp.o: \
- /home/untcm/develop/repository/first/main.cpp /usr/include/stdc-predef.h \
- /usr/include/c++/11/iostream \
+ /home/untcm/develop/repository/cppWorkspace/first/main.cpp \
+ /usr/include/stdc-predef.h /usr/include/c++/11/iostream \
  /usr/include/x86_64-linux-gnu/c++/11/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/11/bits/os_defines.h \
  /usr/include/features.h /usr/include/features-time64.h \
@@ -154,4 +154,4 @@ CMakeFiles/main.dir/main.cpp.o: \
  /usr/include/c++/11/bits/stl_vector.h \
  /usr/include/c++/11/bits/stl_bvector.h \
  /usr/include/c++/11/bits/vector.tcc \
- /home/untcm/develop/repository/first/include/text_query/search.h
+ /home/untcm/develop/repository/cppWorkspace/first/include/text_query/search.h

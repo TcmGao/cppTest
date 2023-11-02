@@ -4,7 +4,7 @@
 # compile CXX with /usr/bin/c++
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I/home/untcm/develop/repository/first/include -I/home/untcm/develop/repository/first/include/text_query
+CXX_INCLUDES = -I/home/untcm/develop/repository/cppWorkspace/first/include -I/home/untcm/develop/repository/cppWorkspace/first/include/text_query
 
 CXX_FLAGS = 
 

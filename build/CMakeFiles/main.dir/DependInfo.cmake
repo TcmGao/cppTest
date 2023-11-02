@@ -8,10 +8,10 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/home/untcm/develop/repository/first/main.cpp" "CMakeFiles/main.dir/main.cpp.o" "gcc" "CMakeFiles/main.dir/main.cpp.o.d"
-  "/home/untcm/develop/repository/first/src/search.cpp" "CMakeFiles/main.dir/src/search.cpp.o" "gcc" "CMakeFiles/main.dir/src/search.cpp.o.d"
-  "/home/untcm/develop/repository/first/src/text_query/query_result.cpp" "CMakeFiles/main.dir/src/text_query/query_result.cpp.o" "gcc" "CMakeFiles/main.dir/src/text_query/query_result.cpp.o.d"
-  "/home/untcm/develop/repository/first/src/text_query/text_query.cpp" "CMakeFiles/main.dir/src/text_query/text_query.cpp.o" "gcc" "CMakeFiles/main.dir/src/text_query/text_query.cpp.o.d"
+  "/home/untcm/develop/repository/cppWorkspace/first/main.cpp" "CMakeFiles/main.dir/main.cpp.o" "gcc" "CMakeFiles/main.dir/main.cpp.o.d"
+  "/home/untcm/develop/repository/cppWorkspace/first/src/search.cpp" "CMakeFiles/main.dir/src/search.cpp.o" "gcc" "CMakeFiles/main.dir/src/search.cpp.o.d"
+  "/home/untcm/develop/repository/cppWorkspace/first/src/text_query/query_result.cpp" "CMakeFiles/main.dir/src/text_query/query_result.cpp.o" "gcc" "CMakeFiles/main.dir/src/text_query/query_result.cpp.o.d"
+  "/home/untcm/develop/repository/cppWorkspace/first/src/text_query/text_query.cpp" "CMakeFiles/main.dir/src/text_query/text_query.cpp.o" "gcc" "CMakeFiles/main.dir/src/text_query/text_query.cpp.o.d"
   )
 
 # Targets to which this target links.
